@@ -1,3 +1,9 @@
-# laughing-chess-AI
-As you can see in this file，I’d like to create an auto machine that can play with itself.Here is already some successful examples in
+    # laughing-chess-AI
+    As you can see in this file，I’d like to create an auto machine that can play with itself.Here is already some successful examples in
  go.The basic achievement comes from some basic knowledgement with a little adjustment.I will begin my project and upload the code soon.
+ 
+     This paragraph mainly talk about the board's achievement.The board is 10 rows with 9 columns.We may reach 2 lines aboard for convenient.
+ the horse may reach out of the board when we calculate the possibility.
+     
+     Then we consider each kind of inches's possible moves.Cars move by rows or columns ,when it comes up with enemy,It can eat them.So for
+ horse,Xiang,Shi and shuai ,pao, bing.
